@@ -52,3 +52,6 @@ app.*.map.json
 *.bin
 *.tflite
 *.safetensors
+
+#exclude config files
+config.json
