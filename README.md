@@ -1,4 +1,4 @@
-# Flutter Gemma Example App
+# Flutter Gemma Example App , this will be my the template app for Final proj
 
 ## Setup
 
